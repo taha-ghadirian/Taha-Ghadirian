@@ -1,8 +1,18 @@
 <img src="https://media-exp1.licdn.com/dms/image/D4E16AQGVHWrLDrSR5Q/profile-displaybackgroundimage-shrink_350_1400/0/1666814647489?e=1672876800&v=beta&t=LJVWrtYmowA6QKUzuKFTZkYIAcAKO5vbrWj31Da3O48" />
-<h1 align="center">Hi 👋, I'm Taha Ghadirian</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I'm Taha Ghadirian.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 <h3 align="center">Senior Software Developer</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="450px" width="350px" align="right"> <br>
+</p>
+
 - 💪 I bring **productivity** to your Tech team
+
+- 🧑‍🏫 **#CSharp** Teacher in Nafir institute.
 
 - 💬 Ask me about **#CSharp, #DotNet, #Docker**
 
@@ -18,7 +28,18 @@
 <a href="https://wa.me/+989138764144" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/small/41601037019z0up4s30ttbuq8rj7jkavvzuaizgspsyeq7dt7o9ryampzgbnocvvgpo8l07k17rwjs2nwd0uig0whitdimjq5stnnvsyjbclkx3.png" alt="+989138764144" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+### Languages and Tools:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=taha-ghadirian&show_icons=true)  
+#### ![](https://img.shields.io/badge/CSharp-blue)  ![](https://img.shields.io/badge/Asp.Net-blue)  ![](https://img.shields.io/badge/Blazor-blue)   ![](https://img.shields.io/badge/MAUI-blue) ![](https://img.shields.io/badge/Git-blue)  ![](https://img.shields.io/badge/GitHub-blue)  ![](https://img.shields.io/badge/Bash-blue)  ![](https://img.shields.io/badge/DevOps-blue)  ![](https://img.shields.io/badge/Docker-blue)  ![](https://img.shields.io/badge/Kuber-blue)  ![](https://img.shields.io/badge/Linux-blue)  ![](https://img.shields.io/badge/SQL_Server-blue)  ![](https://img.shields.io/badge/MySql-blue)  ![](https://img.shields.io/badge/MongoDb-blue)  ![](https://img.shields.io/badge/RabbitMQ-blue)  ![](https://img.shields.io/badge/Selenium-blue)
+
+### Some cool graphs of my github account:
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Taha-Ghadirian&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=taha-ghadirian&theme=radical&hide_border=true)  ![Taha Ghadirian's GitHub stats](https://github-readme-stats.vercel.app/api?username=taha-ghadirian&theme=radical&hide_border=true&show_icons=true)  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Taha-Ghadirian&theme=radical&hide_border=true)
+
+<p align="center" style="margin-bottom: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=practaldev&column=7&theme=onedark"/>
+</p>
+
