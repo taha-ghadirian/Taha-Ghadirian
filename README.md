@@ -32,6 +32,9 @@
 
 #### ![](https://img.shields.io/badge/CSharp-blue)  ![](https://img.shields.io/badge/Asp.Net-blue)  ![](https://img.shields.io/badge/Blazor-blue)   ![](https://img.shields.io/badge/MAUI-blue) ![](https://img.shields.io/badge/Git-blue)  ![](https://img.shields.io/badge/GitHub-blue)  ![](https://img.shields.io/badge/Bash-blue)  ![](https://img.shields.io/badge/DevOps-blue)  ![](https://img.shields.io/badge/Docker-blue)  ![](https://img.shields.io/badge/Kuber-blue)  ![](https://img.shields.io/badge/Linux-blue)  ![](https://img.shields.io/badge/SQL_Server-blue)  ![](https://img.shields.io/badge/MySql-blue)  ![](https://img.shields.io/badge/MongoDb-blue)  ![](https://img.shields.io/badge/RabbitMQ-blue)  ![](https://img.shields.io/badge/Selenium-blue)
 
+### Holopin Badges??! Yes here is it! 
+[![@tahat4tt's Holopin board](https://holopin.me/tahat4tt)](https://holopin.io/@tahat4tt)
+
 ### Some cool graphs of my github account:
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Taha-Ghadirian&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
