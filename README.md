@@ -4,15 +4,13 @@
   Hi, I'm Taha Ghadirian.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<h3 align="center">Senior Software Developer</h3>
+<h3 align="center">Mid-Level Software Developer</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="450px" width="350px" align="right"> <br>
 </p>
 
 - 💪 I bring **productivity** to your Tech team
-
-- 🧑‍🏫 **#CSharp** Teacher in Nafir institute.
 
 - 💬 Ask me about **#CSharp, #DotNet, #Docker**
 
@@ -32,7 +30,7 @@
 
 #### ![](https://img.shields.io/badge/CSharp-blue)  ![](https://img.shields.io/badge/Asp.Net-blue)  ![](https://img.shields.io/badge/Blazor-blue)   ![](https://img.shields.io/badge/MAUI-blue) ![](https://img.shields.io/badge/Git-blue)  ![](https://img.shields.io/badge/GitHub-blue)  ![](https://img.shields.io/badge/Bash-blue)  ![](https://img.shields.io/badge/DevOps-blue)  ![](https://img.shields.io/badge/Docker-blue)  ![](https://img.shields.io/badge/Kuber-blue)  ![](https://img.shields.io/badge/Linux-blue)  ![](https://img.shields.io/badge/SQL_Server-blue)  ![](https://img.shields.io/badge/MySql-blue)  ![](https://img.shields.io/badge/MongoDb-blue)  ![](https://img.shields.io/badge/RabbitMQ-blue)  ![](https://img.shields.io/badge/Selenium-blue)
 
-### Holopin Badges??! Yes here is it! 
+### Holopin Badges??! Yes they are funny! 
 [![@tahat4tt's Holopin board](https://holopin.me/tahat4tt)](https://holopin.io/@tahat4tt)
 
 ### Some cool graphs of my github account:
