@@ -1,4 +1,3 @@
-<img src="https://media-exp1.licdn.com/dms/image/D4E16AQGVHWrLDrSR5Q/profile-displaybackgroundimage-shrink_350_1400/0/1666814647489?e=1672876800&v=beta&t=LJVWrtYmowA6QKUzuKFTZkYIAcAKO5vbrWj31Da3O48" />
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hi, I'm Taha Ghadirian.
@@ -12,11 +11,16 @@
 
 - 💪 I bring **productivity** to your Tech team
 
-- 💬 Ask me about **#CSharp, #DotNet, #Docker**
+- 💬 Ask me about **#CSharp, #SQL, #DevOps**
 
-- 📫 How to reach me: **[Taha.Ghadirian@outlook.com](mailto:taha.ghadirian@outlook.com)**
+- 📫 Business inqueries: **[Taha@SmileCode.ir](mailto:Taha@SmileCode.ir)**
 
-- 📄 Know about my experiences **[https://linkedin.com/in/TahaGhadirian](https://linkedin.com/in/TahaGhadirian)**
+- 💻  Personal Mail: **[Taha.Ghadirian@outlook.com](mailto:taha.ghadirian@outlook.com)**
+
+- 🧐 Academic Mail: **[t.ghadirian@ec.iut.ac.ir](mailto:t.ghadirian@ec.iut.ac.ir)**
+
+
+- 📄 Know me more! :d **[https://linkedin.com/in/TahaGhadirian](https://linkedin.com/in/TahaGhadirian)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,14 +37,6 @@
 ### Holopin Badges??! Yes they are funny! 
 [![@tahat4tt's Holopin board](https://holopin.me/tahat4tt)](https://holopin.io/@tahat4tt)
 
-### Some cool graphs of my github account:
+### Some cool graphs of my github account: (That just shows disactivity :d)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Taha-Ghadirian&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=taha-ghadirian&theme=radical&hide_border=true)  ![Taha Ghadirian's GitHub stats](https://github-readme-stats.vercel.app/api?username=taha-ghadirian&theme=radical&hide_border=true&show_icons=true)  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Taha-Ghadirian&theme=radical&hide_border=true)
-
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=practaldev&column=7&theme=onedark"/>
-</p>
-
+![Taha Ghadirian's GitHub stats](https://github-readme-stats.vercel.app/api?username=taha-ghadirian&show_icons=true&theme=radical)
