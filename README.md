@@ -1,42 +1,124 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi, I'm Taha Ghadirian.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-<h3 align="center">Mid-Level Software Developer</h3>
+<img align="right" height="187" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V1cTB5dnlmbzE4YTdxeW9kaml0dWt3OGJwdzBhcHExcjlxZm1qNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif"  />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="450px" width="350px" align="right"> <br>
-</p>
+###
+
+<h1 align="center">
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>
+ Hi, I'm Taha Ghadirian 
+ <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>
+</h1>
+
+###
+
+<h5 align="center">Mid-Level dotnet web developer</h5>
+
+###
+
+<div align="center">
+  <a href="https://t.me/tahat4tt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://linkedin.com/in/tahaghadirian" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 - 💪 I bring **productivity** to your Tech team
 
-- 💬 Ask me about **#CSharp, #SQL, #DevOps**
+- 💬 Ask me about **#CSharp, #Blazor, #SQL, #DevOps**
 
-- 📫 Business inqueries: **[Taha@SmileCode.ir](mailto:Taha@SmileCode.ir)**
-
-- 💻  Personal Mail: **[Taha.Ghadirian@outlook.com](mailto:taha.ghadirian@outlook.com)**
+- 📫 Business inqueries or personal contact: **[Taha@SmileCode.ir](mailto:Taha@SmileCode.ir)**
 
 - 🧐 Academic Mail: **[t.ghadirian@ec.iut.ac.ir](mailto:t.ghadirian@ec.iut.ac.ir)**
 
+- 💬 Connect on LinkedIn: **[Taha Ghadirian](https://linkedin.com/in/tahaghadirian)**
 
-- 📄 Know me more! :d **[https://linkedin.com/in/TahaGhadirian](https://linkedin.com/in/TahaGhadirian)**
+- 📞 Need to talk? [+98-913-876-4144](tel:+989138764144)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tahaghadirian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahaghadirian" height="30" width="40" /></a>
-<a href="https://instagram.com/tahaghadirian._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahaghadirian._" height="30" width="40" /></a>
-<a href="https://t.me/tahat4tt" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="tahat4tt" height="30" width="40" /></a>
-<a href="https://wa.me/+989138764144" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/small/41601037019z0up4s30ttbuq8rj7jkavvzuaizgspsyeq7dt7o9ryampzgbnocvvgpo8l07k17rwjs2nwd0uig0whitdimjq5stnnvsyjbclkx3.png" alt="+989138764144" height="30" width="40" /></a>
-</p>
+###
 
-### Languages and Tools:
+<h3 align="left"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">
+</picture> Language and tools</h3>
 
-#### ![](https://img.shields.io/badge/CSharp-blue)  ![](https://img.shields.io/badge/Asp.Net-blue)  ![](https://img.shields.io/badge/Blazor-blue)   ![](https://img.shields.io/badge/MAUI-blue) ![](https://img.shields.io/badge/Git-blue)  ![](https://img.shields.io/badge/GitHub-blue)  ![](https://img.shields.io/badge/Bash-blue)  ![](https://img.shields.io/badge/DevOps-blue)  ![](https://img.shields.io/badge/Docker-blue)  ![](https://img.shields.io/badge/Kuber-blue)  ![](https://img.shields.io/badge/Linux-blue)  ![](https://img.shields.io/badge/SQL_Server-blue)  ![](https://img.shields.io/badge/MySql-blue)  ![](https://img.shields.io/badge/MongoDb-blue)  ![](https://img.shields.io/badge/RabbitMQ-blue)  ![](https://img.shields.io/badge/Selenium-blue)
+###
 
-### Holopin Badges??! Yes they are funny! 
-[![@tahat4tt's Holopin board](https://holopin.me/tahat4tt)](https://holopin.io/@tahat4tt)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+</div>
 
-### Some cool graphs of my github account: (That just shows disactivity :d)
+###
 
-![Taha Ghadirian's GitHub stats](https://github-readme-stats.vercel.app/api?username=taha-ghadirian&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+</div>
+
+###
+
+<h3 align="left">💙 We love OSS, Hacktoberfest. Holopin badges are a fun way to showcase this :D</h3>
+
+###
+
+<div align="center">
+  <img height="300" src="https://camo.githubusercontent.com/1b3efe76f87d5d8e54489a265a6c51ad42c79ab5b3be2e47b72d327fef18c9d4/68747470733a2f2f686f6c6f70696e2e6d652f7461686174347474"  />
+</div>
+
+###
+
+<h3 align="left">🫡 Stats (That just shows disactivity :d)</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taha-ghadirian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taha-ghadirian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
