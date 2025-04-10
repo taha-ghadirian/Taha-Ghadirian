@@ -1,5 +1,3 @@
-<img align="right" height="187" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V1cTB5dnlmbzE4YTdxeW9kaml0dWt3OGJwdzBhcHExcjlxZm1qNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif"  />
-
 ###
 
 <h1 align="center">
@@ -28,6 +26,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
+
+<img align="right" height="200" style="margin-top: 32px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V1cTB5dnlmbzE4YTdxeW9kaml0dWt3OGJwdzBhcHExcjlxZm1qNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif"  />
 
 ###
 
