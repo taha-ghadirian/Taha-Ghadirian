@@ -1,8 +1,15 @@
 ###
+
 <h1 align="center">
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
-  Hi, I'm Taha Ghadirian 
+</picture>
+ Hi, I'm Taha Ghadirian 
+ <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>
 </h1>
 
 ###
@@ -38,10 +45,7 @@
 
 ###
 
-<h3 align="left"><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">
-</picture> Language and tools</h3>
+<h3 align="left">⚙️ Language and tools</h3>
 
 ###
 
